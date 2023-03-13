@@ -11,6 +11,18 @@ Feature(v1):
 * Can save passwords for future use (Requires login).
 * Generates and save passwords in a hidden directory of the hard disk with encrypton so, its very secure.
 
+Check sample video:
+[![Sample](https://user-images.githubusercontent.com/119154806/218260002-71dae93d-51ed-40db-9b00-dba0364451df.png)](https://youtu.be/j_BdJj0xXeA "GemPass v1 - An Open-Source Massword Manager")
+
+Check screenshots(v1):
+![Screenshot_Eclipse_20230313204924](https://user-images.githubusercontent.com/119154806/224747748-7671d279-65de-4c09-a815-1d1480fdbfd9.png)
+![Screenshot_Eclipse_20230313204944](https://user-images.githubusercontent.com/119154806/224747610-a8dc0f9b-f811-4238-b302-572b9c0851bf.png)
+![Screenshot_Eclipse_20230313205001](https://user-images.githubusercontent.com/119154806/224747629-f55afe3e-5211-4678-aeba-e9803ccfc234.png)
+![Screenshot_Eclipse_20230313205029](https://user-images.githubusercontent.com/119154806/224747635-5d32551a-43c1-4175-9c8d-5d57b8698196.png)
+![Screenshot_Eclipse_20230313205049](https://user-images.githubusercontent.com/119154806/224747646-af7bf127-77a4-4e68-b345-6a0d24e10ee0.png)
+![Screenshot_Eclipse_20230313205104](https://user-images.githubusercontent.com/119154806/224747679-3c626c6a-f5bb-4867-b840-0779db3a361a.png)
+
+
 Code: I've uploaded the JAVA file of this program named "MyFrame.java" and "LoginPage.java", simply use these files or open these files and copy paste the code.
 
 Details about code:

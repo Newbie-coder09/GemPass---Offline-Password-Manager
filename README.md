@@ -24,7 +24,7 @@ Check screenshots(v1):
 ![Screenshot_Eclipse_20230313205104](https://user-images.githubusercontent.com/119154806/224747679-3c626c6a-f5bb-4867-b840-0779db3a361a.png)
 
 
-Code: I've uploaded the JAVA file of this program named "MyFrame.java" and "LoginPage.java", simply use these files or open these files and copy paste the code.
+Code: I've uploaded the JAVA file of this program named "MyFrame.java" and "LoginPage.java", simply use these files or open these files and copy paste the code. You can create instance of any file inside main method but creating instance of LoginPage will make the program more secure.
 
 Details about code:
 * The code is self explanatory.
